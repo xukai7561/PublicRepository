@@ -1,0 +1,14 @@
+H:\MyProject\AspNetCoreTest\EFCore\bin\Debug\net6.0\EFCore.deps.json
+H:\MyProject\AspNetCoreTest\EFCore\bin\Debug\net6.0\EFCore.dll
+H:\MyProject\AspNetCoreTest\EFCore\bin\Debug\net6.0\ref\EFCore.dll
+H:\MyProject\AspNetCoreTest\EFCore\bin\Debug\net6.0\EFCore.pdb
+H:\MyProject\AspNetCoreTest\EFCore\obj\Debug\net6.0\EFCore.GeneratedMSBuildEditorConfig.editorconfig
+H:\MyProject\AspNetCoreTest\EFCore\obj\Debug\net6.0\EFCore.AssemblyInfoInputs.cache
+H:\MyProject\AspNetCoreTest\EFCore\obj\Debug\net6.0\EFCore.AssemblyInfo.cs
+H:\MyProject\AspNetCoreTest\EFCore\obj\Debug\net6.0\EFCore.csproj.CoreCompileInputs.cache
+H:\MyProject\AspNetCoreTest\EFCore\obj\Debug\net6.0\EFCore.dll
+H:\MyProject\AspNetCoreTest\EFCore\obj\Debug\net6.0\ref\EFCore.dll
+H:\MyProject\AspNetCoreTest\EFCore\obj\Debug\net6.0\EFCore.pdb
+H:\MyProject\AspNetCoreTest\EFCore\bin\Debug\net6.0\EFCore.runtimeconfig.json
+H:\MyProject\AspNetCoreTest\EFCore\obj\Debug\net6.0\EFCore.genruntimeconfig.cache
+H:\MyProject\AspNetCoreTest\EFCore\obj\Debug\net6.0\EFCore.csproj.AssemblyReference.cache

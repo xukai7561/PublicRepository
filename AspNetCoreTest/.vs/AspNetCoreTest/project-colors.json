@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "26c6f461-82c8-4d09-b619-4e5a5953fcf8": {
+      "ProjectGuid": "26c6f461-82c8-4d09-b619-4e5a5953fcf8",
+      "DisplayName": "AspNetCoreTest",
+      "ColorIndex": 0
+    },
+    "d509b680-b372-4ca6-a09c-315d951d141e": {
+      "ProjectGuid": "d509b680-b372-4ca6-a09c-315d951d141e",
+      "DisplayName": "EFCore",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "64371606-29b9-44ad-8fb2-4084e02ee807": {
+      "ProjectGuid": "64371606-29b9-44ad-8fb2-4084e02ee807",
+      "DisplayName": "FilterTest",
+      "ColorIndex": 2
+    },
+    "c468fb36-205d-451b-b766-2c2446c5ceb5": {
+      "ProjectGuid": "c468fb36-205d-451b-b766-2c2446c5ceb5",
+      "DisplayName": "MiddleWare",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GaHaoKIXPFAagII2vx60twDIzNKRI+fub2+gGy3V0mA=",
+  "Source": "AspNetCoreTest",
+  "BasePath": "_content/AspNetCoreTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
