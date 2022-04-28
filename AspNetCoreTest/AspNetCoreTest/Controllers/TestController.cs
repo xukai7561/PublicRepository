@@ -11,7 +11,7 @@ namespace AspNetCoreTest.Controllers
         private readonly MyDbContext _dbContext;
         private readonly My2DbContext _my2DbContext;
 
-        public TestController(MyDbContext dbContext,My2DbContext my2DbContext)
+        public TestController(MyDbContext dbContext, My2DbContext my2DbContext)
         {
             _dbContext = dbContext;
             _my2DbContext = my2DbContext;
@@ -25,7 +25,7 @@ namespace AspNetCoreTest.Controllers
         public string GetContent()
         {
             int c = _dbContext.Books.Count();
-            return $"c={c},a="+_my2DbContext.Persons.Count();
+            return $"c={c},a=" + _my2DbContext.Persons.Count();
         }
 
         /// <summary>
@@ -78,12 +78,13 @@ namespace AspNetCoreTest.Controllers
         {
             return "张三Test";
         }        /// <summary>
-        /// 王五Test
-        /// </summary>
-        /// <returns></returns>
+                 /// 王五Test
+                 /// </summary>
+                 /// <returns></returns>
         [HttpGet]
         public string 王五Test()
         {
             return "王五Test";
-        }    }
+        }
+    }
 }
