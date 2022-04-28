@@ -59,5 +59,15 @@ namespace AspNetCoreTest.Controllers
         {
             return "test1";
         }
+
+        /// <summary>
+        /// LiSiTest
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        public string LiSiTest()
+        {
+            return "LiSiTest";
+        }
     }
 }
