@@ -77,14 +77,25 @@ namespace AspNetCoreTest.Controllers
         public string 张三Test()
         {
             return "张三Test";
-        }        /// <summary>
-                 /// 王五Test
-                 /// </summary>
-                 /// <returns></returns>
+        }
+        /// <summary>
+        /// 王五Test
+        /// </summary>
+        /// <returns></returns>
         [HttpGet]
         public string 王五Test()
         {
             return "王五Test";
+        }
+
+        /// <summary>
+        /// 赵六Test
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        public string 赵六Test()
+        {
+            return "赵六Test";
         }
     }
 }
