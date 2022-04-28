@@ -101,5 +101,12 @@ namespace AspNetCoreTest.Controllers
         {
             return "赵六Test";
         }
+
+        [HttpGet]
+        public string 寒气Test()
+        {
+            string str = "666";
+            return "寒气Test";
+        }
     }
 }
