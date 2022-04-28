@@ -67,7 +67,7 @@ namespace AspNetCoreTest.Controllers
         [HttpGet]
         public string LiSiTest()
         {
-            return "LiSiTest";
+            return "LiSiTest尴尬癌挥发分";
         }
         /// <summary>
         /// 张三Test
