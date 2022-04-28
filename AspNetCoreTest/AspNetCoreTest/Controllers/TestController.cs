@@ -59,5 +59,15 @@ namespace AspNetCoreTest.Controllers
         {
             return "test1";
         }
+
+        /// <summary>
+        /// 张三提交
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        public string ZhangSanTest1()
+        {
+            return "ZhangSanTest1";
+        }
     }
 }
