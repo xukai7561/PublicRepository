@@ -40,7 +40,7 @@ namespace AspNetCoreTest.Controllers
         }
 
         /// <summary>
-        /// 获取内容
+        /// 获取Book集合
         /// </summary>
         /// <returns></returns>
         [HttpGet]
@@ -48,6 +48,16 @@ namespace AspNetCoreTest.Controllers
         {
             var list = _dbContext.Books.ToList();
             return list;
+        }
+
+        /// <summary>
+        /// Test1
+        /// </summary>
+        /// <returns></returns>
+        [HttpGet]
+        public string Tset1()
+        {
+            return "test1";
         }
     }
 }
