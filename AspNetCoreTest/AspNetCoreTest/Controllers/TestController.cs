@@ -71,7 +71,8 @@ namespace AspNetCoreTest.Controllers
         [HttpGet]
         public string Tset2()
         {
-            return "testB2";
+            string str = "C2C";
+            return "B2B";
         }
 
         /// <summary>
