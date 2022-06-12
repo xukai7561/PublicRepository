@@ -71,7 +71,7 @@ namespace AspNetCoreTest.Controllers
         [HttpGet]
         public string Tset2()
         {
-            return "test2";
+            return "testB2";
         }
 
         /// <summary>
@@ -83,17 +83,6 @@ namespace AspNetCoreTest.Controllers
         {
             return "LiSiTest尴尬癌挥发分";
         }
-        /// <summary>
-        /// 张三Test
-        /// </summary>
-        /// <returns></returns>
-        [HttpGet]
-        public string 张三Test()
-        {
-            return "张三Test";
-        }
-
-
   
     }
 }
