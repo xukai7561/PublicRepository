@@ -78,8 +78,8 @@ namespace AspNetCoreTest.Controllers
         {
             string str1 = "000";
 
-            string str = "C2C";
-            return "B2B";
+            string str = "111";
+            return str;
         }
 
         /// <summary>
