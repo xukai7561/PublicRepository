@@ -57,7 +57,7 @@ namespace AspNetCoreTest.Controllers
         [HttpGet]
         public string Tset1()
         {
-            return "test1";
+            return "testGit";
         }
 
         /// <summary>
