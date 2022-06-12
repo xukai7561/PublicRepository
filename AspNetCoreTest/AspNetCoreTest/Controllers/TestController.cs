@@ -67,10 +67,16 @@ namespace AspNetCoreTest.Controllers
             return "testGit_A";
         }
 
+
+
+        /// <summary>
+        /// Test2
+        /// </summary>
         /// <returns></returns>
         [HttpGet]
         public string Tset2()
         {
+            string str1 = "000";
 
             string str = "C2C";
             return "B2B";
