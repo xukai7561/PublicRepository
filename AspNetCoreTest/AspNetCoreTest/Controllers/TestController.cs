@@ -50,6 +50,13 @@ namespace AspNetCoreTest.Controllers
             return list;
         }
 
+        [HttpGet]
+        public string GetNo()
+        {
+            return "1001";
+
+        }
+
         /// <summary>
         /// Test1
         /// </summary>
@@ -92,21 +99,6 @@ namespace AspNetCoreTest.Controllers
             return "王五Test发黑发还多好的";
         }
 
-        /// <summary>
-        /// 赵六Test
-        /// </summary>
-        /// <returns></returns>
-        [HttpGet]
-        public string 赵六Test()
-        {
-            return "赵六Test";
-        }
-
-        [HttpGet]
-        public string 寒气Test()
-        {
-            string str = "666";
-            return "寒气Test";
-        }
+  
     }
 }
