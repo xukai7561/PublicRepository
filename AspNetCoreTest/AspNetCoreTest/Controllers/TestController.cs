@@ -64,7 +64,7 @@ namespace AspNetCoreTest.Controllers
         [HttpGet]
         public string Tset1()
         {
-            return "test1";
+            return "testGit";
         }
 
         /// <returns></returns>
@@ -92,19 +92,7 @@ namespace AspNetCoreTest.Controllers
         {
             return "张三Test";
         }
-        /// <summary>
-        /// 王五Test
-        /// </summary>
-        /// <returns></returns>
-        [HttpGet]
-        public string 王五Test()
-        {
-            string str = "afadagduadYDudADad";
 
-
-
-            return "王五Test发黑发还多好的";
-        }
 
   
     }
